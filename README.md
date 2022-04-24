@@ -1,5 +1,7 @@
 # Melbourne map
 
+*This fork contains the following changes*
+
 Provides a configuration to launch your own retina ready map renderer.
 
 ## Run it
